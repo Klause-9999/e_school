@@ -166,6 +166,9 @@ header{
 .t_img img{
 	width: 100%;
 }
+.bb{
+	margin-bottom: 70px !important;
+}
 .t_text{}
 .t_text p{}
 /*testimony end*/
